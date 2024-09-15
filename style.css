@@ -84,3 +84,26 @@ h1{
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+
+.stats-container{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-evenly;
+}
+
+h4{
+    font-size: 1rem;
+}
+
+.card{
+    background-color: #e47676;
+    width: 40%;
+    max-width: 290px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1rem;
+    min-height: 4rem;
+}
